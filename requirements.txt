@@ -8,3 +8,4 @@ beautifulsoup4>=4.12
 playwright>=1.45
 apify-client
 python-dotenv
+Sastrawi
