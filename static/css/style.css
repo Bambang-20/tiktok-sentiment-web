@@ -1,0 +1,56 @@
+body {
+    background: #f7f7f8;
+    color: #202124;
+}
+
+.navbar-brand {
+    letter-spacing: .2px;
+}
+
+.hero {
+    padding-top: 30px;
+}
+
+.hero-text {
+    max-width: 700px;
+    line-height: 1.7;
+}
+
+.card {
+    border-radius: 18px;
+}
+
+.form-control {
+    border-radius: 12px;
+}
+
+.btn {
+    border-radius: 12px;
+}
+
+.stat-card {
+    min-height: 150px;
+}
+
+.review-item {
+    padding: 18px 0;
+    border-bottom: 1px solid #eee;
+}
+
+.review-item:last-child {
+    border-bottom: 0;
+}
+
+code {
+    word-break: break-all;
+}
+
+@media (max-width: 576px) {
+    .hero h1 {
+        font-size: 2rem;
+    }
+
+    .hero {
+        padding-top: 10px;
+    }
+}
