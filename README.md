@@ -165,3 +165,13 @@ Aplikasi tidak dirancang untuk melewati CAPTCHA atau mekanisme keamanan TikTok. 
 **Project:** TikTok Sentiment Web
 
 **Repository:** https://github.com/Bambang-20/tiktok-sentiment-web
+
+## Application Preview
+
+### Homepage
+
+![TikTok Sentiment Web Homepage](docs/screenshots/homepage.png)
+
+### Initial Analysis State
+
+![Initial Analysis State](docs/screenshots/empty-state.png)
